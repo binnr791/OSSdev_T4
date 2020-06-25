@@ -1,29 +1,24 @@
 # English Vocablary Memorizing Helper
 
-This application is to help you memorize Englsih vocabulary. particaulary helpful to English exam such as TOEIC or TOFLE.
+This application is to help you memorize Englsih vocabulary. Particaulary helpful to English exam such as TOEIC or TOFLE.
 
 ## contents ##
-1 [Information](#information)
-2 [Documentation](#documentation)
-3 [Contribute](#contribute)
-4 [Web Site](#web-site)
-5 [Team](#team)
-6 [License](#license)
+1 [Information](#information) <br>
+2 [Documentation](#documentation) <br>
+3 [Contribute](#contribute) <br>
+4 [Team](#team) <br>
+5 [License](#license) <br>
 
 ## Information ##
-Version : 1.0
-- [install_apk](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/raw/master/app-debug.apk)
+Click the link to download our Android file
+- [install_apk](https://github.com/isume/OSSdev_T4/raw/master/app-debug.apk)
 
 
 ## Documentation ##
-1 [Developer-Document](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/DeveloperDocument.md)
-2 [Coding-Convention](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/CodingConvention.md)
+- [Coding-Convention](https://github.com/isume/OSSdev_T4/issues/2)
 
 ## Contribute ##
-[Contribute](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/contribute.md)
-
-## Web Site ##
-[Web](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
+- [Contribute]()
 
 ## Team ##
 **Team Name : T4**
@@ -36,7 +31,7 @@ Version : 1.0
 |김현우|19|
 
 ## License ##
-[Apache 2.0](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/LICENSE)
+[Apache 2.0]()
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this work except in compliance with the License.
 > You may obtain a copy of the License in the LICENSE file, or at:
