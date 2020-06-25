@@ -3,12 +3,12 @@
 This application is to help you memorize Englsih vocabulary. particaulary helpful to English exam such as TOEIC or TOFLE.
 
 ## contents ##
-+ [Information](#information)
-+ [Documentation](#documentation)
-+ [Contribute](#contribute)
-+ [Web Site](#web-site)
-+ [Team](#team)
-+ [License](#license)
+1 [Information](#information)
+2 [Documentation](#documentation)
+3 [Contribute](#contribute)
+4 [Web Site](#web-site)
+5 [Team](#team)
+6 [License](#license)
 
 ## Information ##
 Version : 1.0
@@ -16,8 +16,8 @@ Version : 1.0
 
 
 ## Documentation ##
-+ [Developer-Document](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/DeveloperDocument.md)
-+ [Coding-Convention](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/CodingConvention.md)
+1 [Developer-Document](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/DeveloperDocument.md)
+2 [Coding-Convention](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/CodingConvention.md)
 
 ## Contribute ##
 [Contribute](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/contribute.md)
@@ -26,15 +26,14 @@ Version : 1.0
 [Web](https://hanyang-erica-oss-dev-2020-undecided.github.io/DecisionHelper_Webpage/theme/index.html)
 
 ## Team ##
-**Team Name : Undecided**
-|**ID**|**Name**|
-|---|---|
-|Connoriginal|권태윤|
-|Min-Jun-Kang|강민준|
-|nadasansu|박민응|
-|sochubert|이민재|
-|sonhl0723|손홍일|
-
+**Team Name : T4**
+|이름|학번|
+|:----:|:----:|
+|정재준|17|
+|최종인|18|
+|김효성|19|
+|백승우|19|
+|김현우|19|
 
 ## License ##
 [Apache 2.0](https://github.com/Hanyang-Erica-Oss-dev-2020-Undecided/Decision-Helper/blob/master/LICENSE)
