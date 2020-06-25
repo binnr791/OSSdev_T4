@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchtitle"
+        android:text="단어 검색"
+        android:textSize="30sp"
+        android:gravity="center_horizontal"
+        />
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:gravity="left"
+        android:text="단어"
+        android:textSize="30sp"
+        />
+
+    <TextView
+        android:id="@+id/descript"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:gravity="left"
+        android:text="단어 설명"
+        android:textSize="15sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addword"
+        android:text="단어장에 추가"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/inputtext"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:capitalize="words"
+            android:hint="검색" />
+
+        <Button
+            android:id="@+id/searchbtn"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="검색"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
