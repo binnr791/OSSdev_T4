@@ -2,7 +2,7 @@
 
 This application is to help you memorize Englsih vocabulary. Particaulary helpful when it comes to taking an English exam such as TOEIC or TOFLE.
 
-## contents ##
+## Outline ##
 1. [Information](#information) <br>
 2. [Documentation](#documentation) <br>
 3. [Contribute](#contribute) <br>
