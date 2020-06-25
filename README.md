@@ -20,7 +20,7 @@ This is our coding convention can be used when you are contributing.
 
 ## Contribute ##
 Click the link if you are interested in contributing our project.
-- [Contribute](https://github.com/isume/OSSdev_T4/blob/Jajuna/Contribute)
+- [Contribute](https://github.com/isume/OSSdev_T4/blob/Jajuna/Contribute.md)
 
 ## Team ##
 **Team Name : T4**
